@@ -1,2 +1,2 @@
 # python-basics
-This repository contains code of basic python
+This repository contains code of basic python which I personally code daily.
